@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/back.xml" value="0.211" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/back_2.xml" value="0.1525" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/back_need.xml" value="0.18" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/back_next.xml" value="0.1525" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/back_question.xml" value="0.1525" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/back_variants.xml" value="0.1525" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/backgroun_chemistry.xml" value="0.1525" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/background.xml" value="0.1525" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/background_math.xml" value="0.1525" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/background_physics.xml" value="0.1525" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/background_screen.xml" value="0.198" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/background_topic.xml" value="0.1525" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/btn_next_background.xml" value="0.1525" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/btn_play.xml" value="0.16" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/check.xml" value="0.1525" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/choose_topic_round.xml" value="0.1525" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/custom_bg.xml" value="0.153" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/exit.xml" value="0.211" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/ic_back_icon.xml" value="0.1525" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/ic_quiz.xml" value="0.211" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/ic_quiz2.xml" value="0.211" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/ic_quiz3.xml" value="0.23" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/info.xml" value="0.211" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/play.xml" value="0.16" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/play2.xml" value="0.16" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/play3.xml" value="0.16" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/settings.xml" value="0.16" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/timer_icon.xml" value="0.1525" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/drawable/unchecked.xml" value="0.1525" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/layout/activity_first_page.xml" value="0.21927083333333333" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/layout/activity_home_page.xml" value="0.21927083333333333" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/layout/activity_main.xml" value="0.21927083333333333" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/layout/activity_quiz.xml" value="0.21927083333333333" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/layout/activity_quiz_result.xml" value="0.21927083333333333" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/layout/cutom_dialog.xml" value="0.21927083333333333" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/layout/main2.xml" value="0.264" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/layout/main_activity.xml" value="0.20208333333333334" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/layout/main_activity2.xml" value="0.136" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/layout/relative_file.xml" value="0.21927083333333333" />
+        <entry key="..\:/Test_Quiz/app/src/main/res/layout/result_screen.xml" value="0.20208333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

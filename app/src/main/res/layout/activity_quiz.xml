@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0D1F6BB8"
+    android:orientation="vertical"
+    tools:context=".QuizActivity">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:background="#1F6BB8">
+
+        <ImageView
+            android:id="@+id/backBtn"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="15dp"
+            android:src="@drawable/ic_back_icon" />
+
+        <TextView
+            android:id="@+id/topicName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="selected Topic Name"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="8dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/questonsCapasity"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/back"
+        android:elevation="2dp"
+        android:gravity="center"
+        android:paddingStart="15dp"
+        android:paddingEnd="15dp"
+        android:textColor="#000"
+        android:textStyle="bold"
+        tools:text="1/15" />
+
+    <TextView
+
+        android:id="@+id/question"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/back_question"
+        android:gravity="center"
+        android:minHeight="100dp"
+        android:padding="8dp"
+        android:textColor="#000"
+        android:textSize="16sp"
+        tools:text="Question" />
+
+    <androidx.appcompat.widget.AppCompatButton
+
+        android:id="@+id/variant_A"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="36dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/back_variants"
+        android:textColor="#000"
+        tools:text="Variant_A" />
+
+    <androidx.appcompat.widget.AppCompatButton
+
+        android:id="@+id/variant_B"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/back_variants"
+        android:textColor="#000"
+        tools:text="Variant_B" />
+
+    <androidx.appcompat.widget.AppCompatButton
+
+        android:id="@+id/variant_C"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/back_variants"
+        android:textColor="#000"
+        tools:text="Variant_C" />
+
+    <androidx.appcompat.widget.AppCompatButton
+
+        android:id="@+id/variant_D"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/back_variants"
+        android:textColor="#000"
+        tools:text="Variant_D" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/nextQuestion"
+        android:layout_width="160dp"
+        android:layout_height="?actionBarSize"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/btn_next_background"
+        android:enabled="false"
+        android:text="next"
+        android:textColor="#fff" />
+
+
+</LinearLayout>
